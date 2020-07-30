@@ -1,0 +1,5 @@
+document unit and values, and check if it is well done
+optimize main loop
+make possible to disable expansion and create stars in movement to simulate orbits
+document everything
+delete unnecesary files and upload
